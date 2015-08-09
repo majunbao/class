@@ -1,0 +1,68 @@
+.button {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  min-width: 60px;
+  padding: 0 10px;
+  height: 28px;
+  line-height: 28px;
+  font-size: 14px;
+  color: #fff;
+  border: 1px solid #3d7bc4;
+  background-color: #5195e4; }
+
+.button:hover {
+  background-color: #4382cb;cursor: pointer; outline: 0; }
+
+.button:focus {
+  outline: 0; }
+
+.button.success {
+  background-color: #32b40a;
+  border: 1px solid #80c269; }
+
+.button.success:hover {
+  background-color: #2a910a; }
+
+.button.info {
+  background-color: #f68409;
+  border: 1px solid #F68409; }
+
+.button.info:hover {
+  background-color: #ED5900; }
+
+.button.warning {
+  background-color: #ca2e2e;
+  border: 1px solid #F68409; }
+
+.button.warning:hover {
+  background-color: #9B0F0F; }
+
+.button.danger {
+  background-color: #aaaaaa;
+  border: 1px solid #aaaaaa; }
+
+.button.danger:hover {
+  background-color: #9B9B9A; }
+
+.button.large {
+  min-width: 88px;
+  padding: 0 10px;
+  height: 38px;
+  width: auto;
+  line-height: 38px; }
+
+.button.larger {
+  font-size: 20px;
+  min-width: 268px;
+  padding: 0 10px;
+  height: 38px;
+  line-height: 38px;
+  width: auto; }
+.button.small{
+  font-size: 12px;
+  padding:0 5px;
+  min-width: 50px;
+  height: 22px;
+  line-height: 22px;
+}
