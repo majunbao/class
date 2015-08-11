@@ -14,13 +14,13 @@ class="button"
 ```css
 a big button
 
-class="button big"
+class="big button"
 ```
 
 ### 一个大的绿色按钮
 ```css
 a bule button
 
-class="button big bule"
+class="big bule button"
 ```
 
