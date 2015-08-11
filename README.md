@@ -17,7 +17,7 @@ a big button
 class="big button"
 ```
 
-### 一个大的绿色按钮
+### 一个大的蓝色的按钮
 ```css
 a bule button
 
