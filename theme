@@ -1,0 +1,9 @@
+theme
+success
+info
+warning
+error
+
+在我这个主题下，某元素的样子，用 theme
+
+如果交互后给与反馈 用，success info warning error

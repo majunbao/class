@@ -2,7 +2,7 @@
 
 NO gulp!  NO SCSS!  NO CoffeeScript!  NO Grunt、Stylus、LESS....!!!!没有封装！！没有新技术！！
 
-一个简约时尚的模块化UI案例
+尝试统一 class 命名这一历史性难题。。。
 
 # 模块
 一个模块就是一个文件夹，下面我们来新建一个模块试试。
@@ -28,18 +28,16 @@ rm -rf button
 <button>按钮</button>
 
 <button class="error">按钮</button>
-
-incloud('button.html')
 ```
 
 ### CSS 文件
 
 ```css
+@import reset
+
 button { }
 
 button.error { }
-
-@import button
 ```
 
 ### Javascript 文件

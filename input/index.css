@@ -7,16 +7,17 @@ input[type=text], input[type=password] {
   padding: 0 10px;
   font-size: 14px;
 }
-
 input[type=text]:hover, input[type=password]:hover {
   border-color: #B8D0EE; }
 
-input[type=text].warning, input[type=password].warning {
-  border-color: #ca2e2e; }
 input[type=text].success, input[type=password].success {
   border-color: #32b40a; }
 input[type=text].warning, input[type=password].warning {
   border-color: #ca2e2e; }
+input[type=text].info, input[type=password].info {
+  border-color: #F68409; }
+input[type=text].danger, input[type=password].danger {
+  border-color: #aaaaaa; }
 
 input[type=text]:focus, input[type=password]:focus {
   border-color: #5195e4;outline: 0 }
