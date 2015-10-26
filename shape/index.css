@@ -1,0 +1,90 @@
+/*正方形*/
+.square{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: #5195e4;
+}
+
+/*长方形*/
+.rectangle {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  background-color: #5195e4;
+}
+/*圆形*/
+.circle{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #5195e4;
+}
+/*圆角矩形*/
+.rounded{
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  background-color: #5195e4;
+  border-radius: 6px;
+}
+
+/*椭圆*/
+.ellipse{
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  background-color: #5195e4;
+  border-top-left-radius: 100px 50px;
+  border-bottom-left-radius: 100px 50px;
+}
+
+/*上三角*/
+
+/*下三角*/
+
+/*左三角*/
+
+/*右三角*/
+
+/*左上三角*/
+
+/*右上三角*/
+
+/*左下三角*/
+
+/*右下三角*/
+
+/*平行四边形*/
+
+/*梯形*/
+
+/*六角星*/
+
+/*五角星*/
+
+/*五角大楼*/
+
+/*六边形*/
+
+/*八角形*/
+
+/*爱心*/
+
+/*无穷大符号*/
+
+/*鸡蛋*/
+
+/*食逗人*/
+
+/*提示对话框*/
+
+/*12角星*/
+
+/*8角星*/
+
+/*钻石*/
+
+/*阴阳八卦*/
+

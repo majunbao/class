@@ -1,9 +1,18 @@
+/*颜色是最基本的风格属性之一，还有尺寸、动效*/
+
+/*首先设计一个主题色*/
 .theme{background-color: #5195e4}
+
+/*接着设计一些语义颜色*/
 .success{background-color: #32b40a}
 .info{background-color: #5bc0de}
 .warning{background-color: #f68409}
 .error{background-color: #ca2e2e}
 
+/*然后是一些语义的灰度色*/
+
+
+/*常用的灰度色彩，这样可以应对各种设计师。*/
 .c000{background-color: #000;}
 .c111{background-color: #111;}
 .c222{background-color: #222;}
